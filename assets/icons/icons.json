@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/chnoudi-pet-shop-spa-icon.svg"
+ },
+ "source_md5": "76ae7acd85e6c1935eb5ed02684935b5",
+ "version": "99063e5d",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "385af6eea0c2c5a5b6527e5ba817937c"
+ ],
+ "made": "2026-11-18"
+}
